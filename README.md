@@ -36,36 +36,11 @@ Package Management: NPM, dotenv for environment variables
 🚀 Installation
 Follow these steps to set up the project locally.
 
-Clone the repository:
-
 bash
-Copy code
-git clone https://github.com/yourusername/chatgpt-clone.git
-cd chatgpt-clone
-Install dependencies:
-
-bash
-Copy code
-npm install
-Create a .env file and add the following environment variables:
-
-bash
-Copy code
-VITE_API_URL=http://your-api-url
-CLERK_FRONTEND_API=your-clerk-frontend-api
-GEMINI_API_KEY=your-google-gemini-api-key
-Run the development server:
-
-bash
-Copy code
-npm run dev
-Run the backend server (Express API):
-
-bash
-Copy code
 cd backend
-npm install
 npm start
+npm run dev
+
 📖 Usage
 Once the project is up and running, you can:
 
@@ -90,14 +65,6 @@ Copy code
 ├── README.md              # Project documentation
 └── package.json           # Project metadata and dependencies
 🖼️ Screenshots
-1. Login Page
-
-2. Chat Interface
-
-3. Dashboard
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Created by ADI MELLER
 Feel free to contribute to this project, and don't forget to star ⭐ the repository if you found it helpful!
