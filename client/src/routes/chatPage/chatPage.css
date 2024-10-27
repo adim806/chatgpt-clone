@@ -4,6 +4,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
+    background-color: #1d3b4d;
 
     .wrapper{
         flex: 1;
@@ -16,6 +17,12 @@
             width: 50%;
             display: flex;
             flex-direction: column;
+            gap: 20px;
+
+            p,li{
+                margin: 10px 0px;
+
+            }
 
             .message{
                 padding: 20px;
