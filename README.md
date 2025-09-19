@@ -1,5 +1,5 @@
-<img width="1300" height="600" alt="צילום מסך 2025-09-19 110520" src="https://github.com/user-attachments/assets/b49530e8-63c2-4416-b65d-dfa70eac8a06" /># ChatGPT Clone
-<img width="1300" height="600" alt="צילום מסך 2025-09-19 110709" src="https://github.com/user-attachments/assets/69135631-d602-4131-9716-b506a5443406" />
+<img width="450" height="400" alt="צילום מסך 2025-09-19 110520" src="https://github.com/user-attachments/assets/b49530e8-63c2-4416-b65d-dfa70eac8a06" /># ChatGPT Clone
+<img width="450" height="400" alt="צילום מסך 2025-09-19 110709" src="https://github.com/user-attachments/assets/69135631-d602-4131-9716-b506a5443406" />
 
 A full-stack ChatGPT-like web application that allows users to create accounts, start multiple chat sessions, save conversation history, and interact with an AI model in real time.  
 
