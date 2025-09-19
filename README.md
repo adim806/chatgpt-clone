@@ -43,11 +43,9 @@ Users can:
 
 ## 📸 Screenshots
 
-_Add screenshots or GIFs of the application UI here for better presentation._
 
-Example:
+<img width="400" height="350" alt="צילום מסך 2025-09-19 110605" src="https://github.com/user-attachments/assets/949488e9-99e9-4880-adcc-cce42ce784a1" />
 
-![screenshot](./assets/screenshot.png)
 
 ---
 
